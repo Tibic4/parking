@@ -21,19 +21,6 @@ Carros pequenos podem estacionar em vagas compactas ou grandes.
 
 Ônibus podem estacionar em vagas grandes, desde que haja pelo 5 vagas na mesma fileira.
 
-Alguns dos métodos que o estacionamento tem:
-
-- Quantidade de vagas disponíveis
-- Quantidade de vagas ocupadas
-- Quantidade de vagas ocupadas por tipo de veículo
-- Quantidade de vagas disponíveis por tipo de veículo
-- Se o estacionamento está cheio
-- Se o estacionamento está vazio
-- Se o estacionamento está cheio por tipo de veículo
-
-Entre outros...
-
-
 #### Observações:
 
 Versão inicial do projeto, com a implementação dos testes unitários e das classes do estacionamento.
