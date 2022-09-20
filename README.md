@@ -6,7 +6,7 @@ O projeto foi desenvolvido em Ruby puro, sem o uso de frameworks.
 
 Para executar o projeto, basta clonar o repositório e executar o arquivo vehicle.rb
 
-Para executar os testes, basta instalar a gem rspec e executar o comando rspec ou rake no terminal.
+Para executar os testes, basta instalar a gem rspec e executar o comando rspec no terminal.
 
 
 ### Objetivos:
@@ -25,4 +25,4 @@ Carros pequenos podem estacionar em vagas compactas ou grandes.
 
 Versão inicial do projeto, com a implementação dos testes unitários e das classes do estacionamento.
 
-Pode conter bugs e existem melhorias a serem feitas.
+Pode conter erros e existem melhorias a serem feitas.
